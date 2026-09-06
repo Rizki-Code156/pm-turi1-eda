@@ -1,7 +1,7 @@
 # Pertemuan 1
 
-**Mata Kuliah:** Pembelajaran Mesin (INF62325)
-**Nama:** Rizki Aidil Fazri
+**Mata Kuliah:** Pembelajaran Mesin (INF62325)<br>
+**Nama:** Rizki Aidil Fazri<br>
 **NIM:** 2488010021
 
 ## Ringkasan
@@ -10,7 +10,7 @@ Praktikum persiapan awal pembelajaran mesin dengan penyambungan repositori GitHu
 
 ## Isi Repositori
 
-* `PM_TuRi1_EDA_Rizki.ipynb` : Notebook mengecek environment & pustaka dasar Python.
+ `PM_TuRi1_EDA_Rizki.ipynb` : Notebook mengecek environment & pustaka dasar Python.
 
 ## Temuan Utama
 
