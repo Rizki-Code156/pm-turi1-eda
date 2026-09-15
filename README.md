@@ -1,4 +1,4 @@
-# Pertemuan 2
+# Pertemuan 3
 
 **Mata Kuliah:** Pembelajaran Mesin (INF62325)
 **Nama:** Rizki Aidil Fazri
