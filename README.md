@@ -1,19 +1,20 @@
-# Pertemuan 1
+# Pertemuan 2
 
-**Mata Kuliah:** Pembelajaran Mesin (INF62325)<br>
-**Nama:** Rizki Aidil Fazri<br>
+**Mata Kuliah:** Pembelajaran Mesin (INF62325)
+**Nama:** Rizki Aidil Fazri
 **NIM:** 2488010021
 
 ## Ringkasan
 
-Praktikum persiapan awal pembelajaran mesin dengan penyambungan repositori GitHub dengan Google Colab dan mengecek environment dan pustaka dasar.
+Praktikum Exploratory Data Analysis (EDA) menggunakan dataset tips dari library Seaborn untuk memahami struktur data, distribusi data, outlier, hubungan antar variabel, dan korelasi antar fitur numerik.
 
 ## Isi Repositori
 
- `PM_TuRi1_EDA_Rizki.ipynb` : Notebook mengecek environment & pustaka dasar Python.
+`PM_P3_Rizki Aidil Fazri_2488010021.ipynb` : Notebook latihan Exploratory Data Analysis menggunakan dataset tips.
 
 ## Temuan Utama
 
-1. Repositori GitHub berhasil terhubung dengan Google Colab.
-2. Environment Google Colab telah siap digunakan untuk praktikum pembelajaran mesin dengan NumPy 2.1.3, pandas 2.2.3, dan scikit-learn 1.6.1.
-3. Pustaka utama untuk pembelajaran mesin, NumPy, pandas, dan scikit-learn, berhasil di-import tanpa error.
+1. Dataset tips berhasil dimuat menggunakan sns.load_dataset('tips') dan struktur data dapat dilihat menggunakan head(), shape, dan info().
+2. Histogram total_bill menunjukkan distribusi nilai total tagihan, sedangkan box plot tip digunakan untuk melihat adanya outlier.
+3. Scatter plot menunjukkan bahwa semakin besar total_bill, nilai tip cenderung semakin besar.
+4. Heatmap korelasi menunjukkan bahwa total_bill dan tip memiliki korelasi paling tinggi dengan nilai sekitar 0.68.
